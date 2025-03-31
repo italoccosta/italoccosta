@@ -8,7 +8,7 @@
 
 * _Atualmente, foco no desenvolvimento de APIs robustas e escaláveis. Tenho experiência com banco de dados PostgreSQL, versionamento de código com Git e estou sempre aprimorando minhas habilidades para seguir as melhores práticas do mercado._
 
-#### 🌐 Minhas redes
+### 🌐 Minhas redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocosta-dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991340497)
@@ -17,11 +17,11 @@
 
 
 
-#### 🚀 Minhas Skills
+### 🚀 Minhas Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
 
-#### Ferramentas
+### Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 
