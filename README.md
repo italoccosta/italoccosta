@@ -1,16 +1,21 @@
-## Hi there 👋
+Seja bem-vindo! 🚀
+💻 Desenvolvedor Backend especializado em Java e Spring Boot
 
-<!--
-**italoccosta/italoccosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, foco no desenvolvimento de APIs robustas e escaláveis. Tenho experiência com banco de dados PostgreSQL e MongoDB, versionamento de código com Git e estou sempre aprimorando minhas habilidades para seguir as melhores práticas do mercado.
 
-Here are some ideas to get you started:
+Além do desenvolvimento backend, estou estudando React para construir interfaces simples e interativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Minhas redes
+
+
+🚀 Minhas Skills
+Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+Estudando no momento
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+📊 GitHub Stats
+
+
+Quer trocar uma ideia? Me chama! 🚀
