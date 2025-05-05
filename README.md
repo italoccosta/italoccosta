@@ -1,19 +1,19 @@
 # Welcome! 🚀
 
- _Hi there 👋_
+ _Hello! 👋_
  
 _I'm Italo, a backend development student based in Brazil._
 
-#### 📍 Camaçari – BA, Brazil 
+**_📍 Camaçari – BA, Brazil_**
  
-#### 🎓 5th semester student in Systems Analysis and Development 
+**_🎓 5th semester student in Systems Analysis and Development_**
  
-#### 💻 Focused on Backend with Java and Spring Boot
+**_💻 Specializing in Backend Development with Java and Spring Boot_**
 
 
 
-> _Currently focused on building robust and scalable APIs._  
-> _I have experience with PostgreSQL databases, Git for version control, and I'm always improving my skills to follow best practices in software development._
+* _Currently focused on building robust and scalable APIs._  
+* _I have experience with PostgreSQL databases, Git for version control, and I'm always improving my skills to follow best practices in software development._
 
 ## 🌐 Connect with me
 
@@ -27,4 +27,4 @@ _I'm Italo, a backend development student based in Brazil._
 
 ---
 
-**_Want to connect or collaborate? Feel free to reach out! 🚀_**
+**_Interested in collaborating or starting a conversation? Feel free to reach out! 🚀_**
