@@ -1,28 +1,30 @@
-## Seja bem-vindo! 🚀
+# Welcome! 🚀
 
-#### 📍 Camaçari - BA
+ _Hi there 👋_
+ 
+_I'm Italo, a backend development student based in Brazil._
 
-#### 🎓 5º semestre de Análise e Desenvolvimento de Sistemas
-
-#### 💻 Foco em Backend com Java e Spring Boot
-
-* _Atualmente, foco no desenvolvimento de APIs robustas e escaláveis. Tenho experiência com banco de dados PostgreSQL, versionamento de código com Git e estou sempre aprimorando minhas habilidades para seguir as melhores práticas do mercado._
-
-### 🌐 Minhas redes
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocosta-dev/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991340497)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:italo.costa13@hotmail.com)
+#### 📍 Camaçari – BA, Brazil 
+ 
+#### 🎓 5th semester student in Systems Analysis and Development 
+ 
+#### 💻 Focused on Backend with Java and Spring Boot
 
 
 
+> _Currently focused on building robust and scalable APIs._  
+> _I have experience with PostgreSQL databases, Git for version control, and I'm always improving my skills to follow best practices in software development._
 
-### 🚀 Minhas Skills
+## 🌐 Connect with me
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocosta-dev/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991340497)   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:italo.costa13@hotmail.com)
 
-### 🛠️ Ferramentas
+## 🚀 Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
 
+## 🛠 Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 
-#### Quer trocar uma ideia? Me chama! 🚀
+---
+
+**_Want to connect or collaborate? Feel free to reach out! 🚀_**
